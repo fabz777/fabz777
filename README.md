@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fábio Gomes Soares
-- 👀 I’m interested in back-end development so I'm currently improving my skills in HTML, CSS and Python and learning Django. 
+- 👀 I’m interested in back-end development so I'm currently improving my skills in Java, Linux and MySQL. 
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/fabio-gomes-soares-21b171164/)
 <!---
