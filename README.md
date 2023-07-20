@@ -2,7 +2,7 @@
 
 Hey! My name is Fábio, I'm currently studying Systems Analysis Technology and I love technology! Since I was a kid, I used to love to play on my computer and always had a high interest in computer science. I have a lot of interest in AI and automation! 
 
-<h2>Conecte-se comigo: </h2>
+<h2>Contact me: </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fabio-g-soares/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabz777)
